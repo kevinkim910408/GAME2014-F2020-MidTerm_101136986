@@ -7,7 +7,7 @@ using UnityEngine;
 /// <summary>
 ///Student name : Junho Kim
 ///Student ID : 101136986
-///Source file name : BackgroundController.cs
+///Source file name : PlayerController.cs
 ///Date last modified : October, 21. 2020
 ///Program description : To controll the Player (ex: movement with inputs, checking boundary, )
 ///Revision history : October, 21. 2020 : Touch Input change to vertical mode, Modify player speed and boundary to vertical mode, inline comments
