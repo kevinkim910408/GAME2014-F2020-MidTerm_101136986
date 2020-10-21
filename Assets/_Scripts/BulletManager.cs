@@ -2,6 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+///Student name : Junho Kim
+///Student ID : 101136986
+///Source file name : BulletManager.cs
+///Date last modified : October, 21. 2020
+///Program description : Pooling bullets (create and set active, deactivate the bullets
+///Revision history : October, 21. 2020 : added Internal Documentation
+////// </summary>
+
 [System.Serializable]
 public class BulletManager : MonoBehaviour
 {

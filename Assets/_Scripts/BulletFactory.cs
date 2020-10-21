@@ -2,6 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+///Student name : Junho Kim
+///Student ID : 101136986
+///Source file name : BulletFactory.cs
+///Date last modified : October, 21. 2020
+///Program description : contains bullets prefabs and randomly shot the bullets
+///Revision history : October, 21. 2020 : added Internal Documentation
+////// </summary>
+
 [System.Serializable]
 public class BulletFactory : MonoBehaviour
 {
